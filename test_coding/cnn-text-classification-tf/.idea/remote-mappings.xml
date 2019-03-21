@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://guowei@10.144.4.113:22/home/guowei/env/enter/envs/cnn-text-classification-tf/bin/python3" />
+      </list>
+    </list>
+  </component>
+</project>

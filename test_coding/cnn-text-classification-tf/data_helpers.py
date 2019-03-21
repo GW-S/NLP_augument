@@ -55,7 +55,7 @@ def batch_iter(data, batch_size, num_epochs, shuffle=True):
         # Shuffle the data at each epoch
         if shuffle:
             shuffle_indices = np.random.permutation(np.arange(data_size))
-            shuffled_data = data[shuffle_indices]
+            shuffled_data   = data[shuffle_indices]
         else:
             shuffled_data = data
         for batch_num in range(num_batches_per_epoch):

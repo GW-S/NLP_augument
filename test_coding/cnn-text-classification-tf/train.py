@@ -17,8 +17,9 @@ tf.flags.DEFINE_string("positive_data_file_train", "./data/原始数据/rt-polar
 tf.flags.DEFINE_string("negative_data_file_train", "./data/原始数据/rt-polarity-train.neg", "Data source for the negative data.")
 tf.flags.DEFINE_string("positive_data_file_test", "./data/原始数据/rt-polarity-test.pos", "Data source for the positive data.")
 tf.flags.DEFINE_string("negative_data_file_test", "./data/原始数据/rt-polarity-test.neg", "Data source for the negative data.")
+
 # TODO：盛国威添加版本
-tf.flags.DEFINE_string("is_add_data",0, "Wether or not add data,0 is add, 1 is not add(default 0).")
+tf.flags.DEFINE_string("is_add_data",0, "Wether or not add data,0 is not add, 1 is  add(default 0).")
 tf.flags.DEFINE_string("add_data_file_pos", "./data/rt-polaritydata/rt-polarity.pos", "Data source for the positive data.")
 tf.flags.DEFINE_string("add_data_file_neg", "./data/rt-polaritydata/rt-polarity.neg", "Data source for the negative data.")
 
@@ -123,6 +124,8 @@ def train(x_train, y_train, vocab_processor, x_dev, y_dev):
                 num_filters=FLAGS.num_filters,
                 l2_reg_lambda=FLAGS.l2_reg_lambda)
 
+
+
             # Define Training procedure
             global_step = tf.Variable(0, name="global_step", trainable=False)
             optimizer = tf.train.AdamOptimizer(1e-3)
@@ -209,19 +212,18 @@ def train(x_train, y_train, vocab_processor, x_dev, y_dev):
 
 
 
+
             # Generate batches
             batches = data_helpers.batch_iter(
                 list(zip(x_train, y_train)), FLAGS.batch_size, FLAGS.num_epochs)
             # Training loop. For each batch...
-            #print("all batchs",len(batches))
+            print("all batchs",len(batches))
 
             for batch in batches:
-
-
                 x_batch, y_batch = zip(*batch)
                 train_step(x_batch, y_batch)
                 current_step = tf.train.global_step(sess, global_step)
-                if current_step % FLAGS.evaluate_every == 0:
+                if current_step % FLAGS.evaluate_every == 0: # 每百次评估一次？
                     print("\nEvaluation:")
                     dev_step(x_dev, y_dev, writer=dev_summary_writer)
                     print("")
