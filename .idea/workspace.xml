@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0ed1173-b31f-4845-8cf0-06dcd5dbd5bb" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/precessing_coding/.idea/workspace.xml" afterPath="$PROJECT_DIR$/precessing_coding/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/precessing_coding/baidu_translate/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precessing_coding/baidu_translate/baidu_trainslate.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precessing_coding/cnn-text-classification-tf/1.原始数据+KG.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precessing_coding/cnn-text-classification-tf/2.原始数据+translate.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precessing_coding/cnn-text-classification-tf/3.原始数据+tranlate+kg.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precessing_coding/kg_tools/KG_and_tools.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precessing_coding/kg_tools/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/precessing_coding/kg_tools/readme.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/.idea/cnn-text-classification-tf.iml" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/.idea/cnn-text-classification-tf.iml" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/.idea/codeStyles/Project.xml" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/.idea/codeStyles/Project.xml" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/.idea/codeStyles/codeStyleConfig.xml" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/.idea/codeStyles/codeStyleConfig.xml" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/.idea/deployment.xml" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/.idea/deployment.xml" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/.idea/dictionaries/sheng.xml" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/.idea/dictionaries/sheng.xml" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/.idea/markdown-navigator.xml" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/.idea/markdown-navigator.xml" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/.idea/markdown-navigator/profiles_settings.xml" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/.idea/markdown-navigator/profiles_settings.xml" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/.idea/misc.xml" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/.idea/modules.xml" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/.idea/remote-mappings.xml" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/.idea/remote-mappings.xml" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/.idea/workspace.xml" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/LICENSE" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/README.md" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/README.md" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/data/原始数据+KG/rt-polarity_train.neg" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/data/原始数据+KG/rt-polarity_train.neg" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/data/原始数据+KG/rt-polarity_train.pos" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/data/原始数据+KG/rt-polarity_train.pos" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/data/原始数据+translate+KG/rt-polarity_train.neg" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/data/原始数据+translate+KG/rt-polarity_train.neg" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/data/原始数据+translate+KG/rt-polarity_train.pos" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/data/原始数据+translate+KG/rt-polarity_train.pos" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/data/原始数据+translate/rt-polarity-train.neg" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/data/原始数据+translate/rt-polarity-train.neg" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/data/原始数据+translate/rt-polarity-train.pos" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/data/原始数据+translate/rt-polarity-train.pos" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/data/原始数据/rt-polarity-test.neg" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/data/原始数据/rt-polarity-test.neg" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/data/原始数据/rt-polarity-test.pos" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/data/原始数据/rt-polarity-test.pos" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/data/原始数据/rt-polarity-train.neg" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/data/原始数据/rt-polarity-train.neg" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/data/原始数据/rt-polarity-train.pos" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/data/原始数据/rt-polarity-train.pos" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/data/原始数据/rt-polarity.neg" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/data/原始数据/rt-polarity.neg" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/data/原始数据/rt-polarity.pos" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/data/原始数据/rt-polarity.pos" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/data_helpers.py" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/data_helpers.py" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/eval.py" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/eval.py" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/split_dataSet.py" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/split_dataSet.py" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/text_cnn.py" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/text_cnn.py" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/train.py" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/train.py" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn-text-classification-tf/train_origion.py" afterPath="$PROJECT_DIR$/models/test_coding/cnn-text-classification-tf/train_origion.py" />
+      <change beforePath="$PROJECT_DIR$/test_coding/cnn_text_classification_tf实验表格.numbers" afterPath="$PROJECT_DIR$/models/test_coding/cnn_text_classification_tf实验表格.numbers" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/augument_paper$KG_and_tools.coverage" NAME="KG_and_tools Coverage Results" MODIFIED="1558688845450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/precessing_coding/kg_tools" />
+    <SUITE FILE_PATH="coverage/augument_paper$.coverage" NAME="分析数据并平衡数据集 Coverage Results" MODIFIED="1558927247221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/数据平衡" />
+    <SUITE FILE_PATH="coverage/augument_paper$2_KG.coverage" NAME="2.对原始数据进行KG Coverage Results" MODIFIED="1558692584692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/precessing_coding/contextual_augmentation/stsa_binary" />
+    <SUITE FILE_PATH="coverage/augument_paper$3_.coverage" NAME="3.对翻译数据进行处理 Coverage Results" MODIFIED="1558694553424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/precessing_coding/contextual_augmentation/stsa_binary" />
+    <SUITE FILE_PATH="coverage/augument_paper$add_origion_file.coverage" NAME="add_origion_file Coverage Results" MODIFIED="1558927224926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/增加原始数据" />
+    <SUITE FILE_PATH="coverage/augument_paper$1_KG.coverage" NAME="1.对翻译数据进行KG Coverage Results" MODIFIED="1558693794142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/precessing_coding/contextual_augmentation/stsa_binary" />
+    <SUITE FILE_PATH="coverage/augument_paper$3__translate_kg.coverage" NAME="3.原始数据+translate+kg Coverage Results" MODIFIED="1556180269129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC" />
+    <SUITE FILE_PATH="coverage/augument_paper$4_translate.coverage" NAME="4.translate转换器 Coverage Results" MODIFIED="1557473299434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="augument_paper" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/LICENSE">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nets.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/nets.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="triggers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/triggers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="evaluator.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/evaluator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chain_utils.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/chain_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>something_wrong</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/组件测试.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/3.原始数据+translate+kg.py" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/1.原始数据+translate.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/4.translate转换器.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/分析数据并平衡数据集.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/add_origion_file.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/stsa_binary.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/stsa_binary/对原始数据进行翻译.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/2.原始数据+KG.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/stsa_binary/README.md" />
+        <option value="$PROJECT_DIR$/precessing_coding/kg_tools/KG_and_tools.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/stsa_binary/2.对原始数据进行KG.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/stsa_binary/1.对翻译数据进行KG.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/stsa_binary/3.对翻译数据进行处理.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/基本方法/4.translate转换器.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/stsa_binary/数据平衡/平衡KG数据集.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/stsa_binary/数据平衡/1.对翻译数据进行KG.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/数据平衡/balance_library.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/数据平衡/分析数据并平衡翻译数据集平衡.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/数据平衡/分析数据并平衡数据集.py" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/readme.md" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/增加原始数据/readme.md" />
+        <option value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/增加原始数据/add_origion_file.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="81" />
+    <option name="y" value="23" />
+    <option name="width" value="1619" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsCSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="augument_paper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="augument_paper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Anaconda/anaconda2/envs/Python35/bin/python3.6" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/precessing_coding/contextual_augmentation/stsa_binary/数据平衡" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/precessing_coding/models" />
+      <recent name="$PROJECT_DIR$/precessing_coding/data_processing" />
+      <recent name="$PROJECT_DIR$/precessing_coding/manipulation_API" />
+      <recent name="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/数据平衡/data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.分析数据并平衡数据集">
+    <configuration name="分析数据并平衡翻译数据集平衡" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/数据平衡" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="augument_paper" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/数据平衡/分析数据并平衡翻译数据集平衡.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="1.对翻译数据进行KG" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/stsa_binary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="augument_paper" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/stsa_binary/基本方法/1.对翻译数据进行KG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="分析数据并平衡数据集" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/数据平衡" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="augument_paper" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/数据平衡/分析数据并平衡数据集.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="3.对翻译数据进行处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/stsa_binary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="augument_paper" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/stsa_binary/基本方法/3.对翻译数据进行处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="add_origion_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/增加原始数据" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="augument_paper" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/precessing_coding/contextual_augmentation/TREC/增加原始数据/add_origion_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.1.对翻译数据进行KG" />
+      <item index="1" class="java.lang.String" itemvalue="Python.3.对翻译数据进行处理" />
+      <item index="2" class="java.lang.String" itemvalue="Python.分析数据并平衡翻译数据集平衡" />
+      <item index="3" class="java.lang.String" itemvalue="Python.分析数据并平衡数据集" />
+      <item index="4" class="java.lang.String" itemvalue="Python.add_origion_file" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.分析数据并平衡数据集" />
+        <item index="1" class="java.lang.String" itemvalue="Python.add_origion_file" />
+        <item index="2" class="java.lang.String" itemvalue="Python.分析数据并平衡翻译数据集平衡" />
+        <item index="3" class="java.lang.String" itemvalue="Python.3.对翻译数据进行处理" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1.对翻译数据进行KG" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0ed1173-b31f-4845-8cf0-06dcd5dbd5bb" name="Default" comment="" />
+      <created>1556170190787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556170190787</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="81" y="23" width="1619" height="1040" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30793652" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25291005" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18833227" sideWeight="0.4926004" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969216" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6201649" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24984147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34920636" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2374798" sideWeight="0.50739956" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/数据平衡/分析数据并平衡数据集.py</url>
+          <line>159</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/数据平衡/分析数据并平衡数据集.py</url>
+          <line>163</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="63" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>len(my_group)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>len(my_group)
+len(choice_data)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>for name, item in group_label_origion:
+    print(type(name))</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>group_label_origion</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>group_label_origion.keys()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data_group_label_origion_dict.keys()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>data_group_label_new_dict</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dataSet</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dataSet_origion</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>len(choice_data)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/stsa_binary/基本方法/2.对原始数据进行KG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#64#83#0" expanded="false" />
+            <element signature="e#403#956#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/stsa_binary/基本方法/3.对翻译数据进行处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#63#82#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/stsa_binary/基本方法/origion_with_KG.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/stsa_binary/基本方法/origion_with_translate.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/stsa_binary/基本方法/translate_then_kg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3408">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/stsa_binary/数据平衡/平衡KG数据集.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="18" column="40" lean-forward="false" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="e#480#1032#0" expanded="false" />
+            <element signature="e#1113#1435#0" expanded="false" />
+            <element signature="e#1543#1741#0" expanded="false" />
+            <element signature="e#1825#4062#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/stsa_binary/数据平衡/1.对翻译数据进行KG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="6" column="31" lean-forward="false" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="e#63#82#0" expanded="false" />
+            <element signature="e#415#1098#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/数据平衡/store/translate_Kg_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2716">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/1381276959/numpy/random/mtrand.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="2255" column="4" lean-forward="false" selection-start-line="2255" selection-start-column="4" selection-end-line="2255" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda/anaconda2/envs/Python35/lib/python3.6/site-packages/numpy/random/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="102" column="32" lean-forward="false" selection-start-line="102" selection-start-column="32" selection-end-line="102" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/TREC_train.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/数据平衡/分析数据并平衡翻译数据集平衡.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="111" column="25" lean-forward="false" selection-start-line="111" selection-start-column="25" selection-end-line="111" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#634#1210#0" expanded="false" />
+            <element signature="e#1243#1262#1" expanded="false" />
+            <element signature="e#1495#1684#0" expanded="false" />
+            <element signature="e#4309#4361#1" expanded="false" />
+            <element signature="e#4363#4418#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="476">
+            <caret line="172" column="0" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="172" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/增加原始数据/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/1.原始数据+translate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding>
+            <element signature="e#102#121#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/contextual_augmentation/stsa_binary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/增加原始数据/add_origion_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/增加原始数据/data/1.TREC_train_kg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1595">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/增加原始数据/data/2.TREC_train_translate.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/增加原始数据/data/3.TREC_train_translate+kg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/增加原始数据/data/5.TREC_translate_kg_balance_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6826">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/增加原始数据/data/4.TREC_train_kg_balance_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14819">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/数据平衡/data/5.TREC_translate_kg_balance_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3528">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda/anaconda2/envs/Python35/lib/python3.6/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="6651" column="0" lean-forward="false" selection-start-line="6651" selection-start-column="0" selection-end-line="6651" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/数据平衡/balance_library.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="63" column="10" lean-forward="true" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+          <folding>
+            <element signature="e#228#259#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/manipulation_API/baidu_translate/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/manipulation_API/baidu_translate/baidu_trainslate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/数据平衡/分析数据并平衡数据集.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="163" column="0" lean-forward="false" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+          <folding>
+            <element signature="e#619#1171#0" expanded="false" />
+            <element signature="e#1173#1206#0" expanded="false" />
+            <element signature="e#4621#4806#0" expanded="false" />
+            <element signature="e#4825#5346#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/manipulation_API/kg_tools/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/manipulation_API/kg_tools/KG_and_tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="51" column="9" lean-forward="false" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <element signature="e#1829#2310#0" expanded="false" />
+            <element signature="e#2395#3194#0" expanded="false" />
+            <element signature="e#3279#3759#0" expanded="false" />
+            <element signature="e#4918#5004#0" expanded="false" />
+            <element signature="e#5425#6379#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/manipulation_API/API使用说明.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/cnn-text-classification-tf/1.原始数据+KG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/cnn-text-classification-tf/2.原始数据+translate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/cnn-text-classification-tf/3.原始数据+tranlate+kg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/基本方法/data/1.TREC_train_kg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6208">
+          <caret line="388" column="17" lean-forward="false" selection-start-line="388" selection-start-column="17" selection-end-line="388" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/基本方法/data/2.TREC_train_translate.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86944">
+          <caret line="5434" column="22" lean-forward="false" selection-start-line="5434" selection-start-column="22" selection-end-line="5452" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/基本方法/data/3.TREC_train_translate+kg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/基本方法/2.原始数据+KG.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/基本方法/4.translate转换器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/基本方法/3.原始数据+translate+kg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/precessing_coding/data_processing/contextual_augmentation/TREC/数据平衡/data/4.TREC_train_kg_balance_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/nets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/triggers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/evaluator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/test_coding/contextual_augmentation/chain_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
